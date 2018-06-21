@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037</color>
+    <color name="colorAccent">#FF9800</color>
+
+
+    <!-- Background color for app -->
+    <color name="app_background">#D7CCC8</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="sceneType_city">#FFE0B2</color>
+
+    <!-- Background color for the family members category -->
+    <color name="sceneType_scenery">#ffccbc</color>
+
+    <!-- Background color for the colors category -->
+    <color name="sceneType_events">#fff9c4</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="sceneType_diners">#e0e0e0</color>
+
+</resources>

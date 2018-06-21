@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">San Francisco Tours</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="category_city">The City</string>
+    <string name="category_attractions">Scenery</string>
+    <string name="category_events">Events</string>
+    <string name="category_diners">Diners</string>
+
+</resources>
